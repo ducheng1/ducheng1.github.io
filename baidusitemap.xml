@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ducheng1.github.io/2022/10/09/test/</loc>
+    <loc>https://ducheng1.github.io/2022/10/09/%E7%AC%AC%E4%B8%80%E4%B8%AASpring-Boot%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2022-10-09</lastmod>
   </url>
   <url>
-    <loc>https://ducheng1.github.io/2022/10/09/hello-world/</loc>
+    <loc>https://ducheng1.github.io/2022/10/09/Restful%E9%A3%8E%E6%A0%BCAPI/</loc>
+    <lastmod>2022-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://ducheng1.github.io/2022/10/09/Vue3-x%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://ducheng1.github.io/2022/10/09/springboot_config/</loc>
     <lastmod>2022-10-09</lastmod>
   </url>
 </urlset> 
