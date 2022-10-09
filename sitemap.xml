@@ -29,6 +29,13 @@
 
   
   <url>
+    <loc>https://ducheng1.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ducheng1.github.io/tags/Spring-Boot/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,24 +63,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://ducheng1.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://ducheng1.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://ducheng1.github.io/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ducheng1.github.io/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://ducheng1.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
