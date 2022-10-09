@@ -106,6 +106,20 @@
   </url>
   
   <url>
+    <loc>https://ducheng1.github.io/tags/Vue/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ducheng1.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ducheng1.github.io/tags/Spring-Boot/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -133,20 +147,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://ducheng1.github.io/tags/Vue/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ducheng1.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -157,14 +157,14 @@
   </url>
   
   <url>
-    <loc>https://ducheng1.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://ducheng1.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ducheng1.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://ducheng1.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
