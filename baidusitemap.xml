@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ducheng1.github.io/2022/11/02/Spring-Boot%E4%B8%ADFilter%E4%B8%8EBean%E7%9A%84%E6%B3%A8%E5%85%A5%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-11-02</lastmod>
+  </url>
+  <url>
     <loc>https://ducheng1.github.io/2022/10/09/%E7%AC%AC%E4%B8%80%E4%B8%AASpring-Boot%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2022-10-09</lastmod>
   </url>
